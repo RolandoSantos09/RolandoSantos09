@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a web administrator.<br>I am also studying in bootcamp to be a fullstack <br>developer in Javascript.t
+I am currently working as a web administrator.<br>I am also studying in bootcamp to be a fullstack <br>developer in Javascript.
 
 
 ## 🌐 Socials:
